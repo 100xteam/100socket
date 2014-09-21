@@ -1,0 +1,25 @@
+{
+    "app_name":"socket100",
+    "frameworks":{
+        "angular":"angular",
+        "ionic":"ionic"
+    },
+    "models":{
+
+    },
+    "bowser":{
+        "dependencies":{
+            "font-awesome":"*",
+            "angular":"*",
+            "angular-route":"*",
+            "angular-cookie":"*",
+            "angular-resource":"*",
+            "angular-strap":"*"
+        }
+    },
+    "package":{
+        "dependencies":{
+            "njax-socket":"git+ssh://git@github.com:schematical/njax-socket.git#master"
+        }
+    }
+}

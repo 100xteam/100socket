@@ -1,0 +1,1 @@
+{"name":"socket100","version":"0.0.1","private":true,"scripts":{"start":"node app.js"},"dependencies":{"async":"*","underscore":"*","mongoose":"*","errorhandler":"*","markdown":"*","connect-multiparty":"*","aws-lib":"*","aws-sdk":"*","socket.io":"*","mkdirp":"*","njax-socket":"git+ssh://git@github.com:schematical/njax-socket.git#master"}}
