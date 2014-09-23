@@ -19,7 +19,8 @@
     },
     "package":{
         "dependencies":{
-            "njax-socket":"git+ssh://git@github.com:schematical/njax-socket.git#master"
+            "njax-socket":"git+ssh://git@github.com:schematical/njax-socket.git#master",
+            "100-sdk":"git+ssh://git@github.com:schematical/100-sdk#master"
         }
     }
 }
