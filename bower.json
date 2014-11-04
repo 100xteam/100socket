@@ -1,1 +1,7 @@
-{"name":"nde","version":"1.0.0","main":"path/to/main.css","ignore":[".jshintrc","**/*.txt"],"dependencies":{"jquery":"*","angular":"*","ace":"*","underscore":"*","async":"*"}}
+{"name": "nde", "version": "1.0.0", "main": "path/to/main.css", "ignore": [".jshintrc", "**/*.txt"], "dependencies": {
+    "jquery": "*",
+    "angular": "*",
+    "angular-strap": "*",
+    "underscore": "*",
+    "async": "*"
+}}

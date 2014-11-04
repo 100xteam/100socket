@@ -8,8 +8,9 @@ angular.module(
         'ngRoute',
         'ngCookies',
         
-        'socket100.filters',
-        'socket100.directives'
+        'njax.socket.service',
+        'mgcrea.ngStrap',
+        'mgcrea.ngStrap.typeahead',
     ]
 ).config(
         [
